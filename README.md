@@ -1,9 +1,20 @@
-- 👋 Hi, I’m @TakeyaC0d3s but my friends call me TK
-- 👀 I’m interested in all sorts of tech like computers, programming and 3D design
-- 🌱 I’m currently learning more about Reactjs and studying to take my CCNA which is about IT networking. Yes I'm still in college but I'll be done soon so yay!
-- 💞️ I’m looking to collaborate on any front end dev project and a little back end database
-- 📫 How to reach me ... you can find me on Linked in and Instagram. Simple type in my name Takeya Mitchell on Linkedin and @keyakiss on IG.
+# 👋 Hey, I’m @TakeyaC0d3s — but the humans call me TK.
 
+- 👀 **I’m into:** computers, networking, live production, programming, 3D design, and generally making expensive technology do what it was told.
+
+- 🎬 **By day:** I’m a multimedia / production engineer with 15+ years in live events, AV, broadcast, and networked systems. If it involves video signals, networks, giant LED walls, or a rack full of equipment blinking angrily at 2AM, I've probably met it.
+
+- 🌱 **Currently:** sharpening my React, JavaScript, Python, API, and full-stack development skills while finding increasingly unnecessary reasons to automate things.
+
+- 🧪 **My GitHub:** part development lab, part engineering notebook, part *"I wonder if I can make this do that..."*
+
+- 💞️ **I’m down to collaborate on:** front-end projects, dashboards, APIs, AV/IT tools, live-production technology, and the occasional backend adventure—as long as the database behaves itself.
+
+- 🛠️ **Current obsession:** combining software development with real-world AV, broadcast, and network engineering. Because apparently operating the technology wasn't enough. Now I need to build it too.
+
+- 📫 **Find me:** Search **Takeya Mitchell** on LinkedIn or **@keyakiss** on Instagram. I'm surprisingly easy to locate for someone who works with networks.
+
+- ⚡ **Fun fact:** I troubleshoot professionally, which means turning things off and back on again is technically an engineering procedure.
 <!---
 TakeyaC0d3s/TakeyaC0d3s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
