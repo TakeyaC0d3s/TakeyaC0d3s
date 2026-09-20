@@ -17,7 +17,10 @@
 - ⚡ **Fun fact:** I troubleshoot professionally, which means turning things off and back on again is technically an engineering procedure.
 
 <p align="center">
-    <img width="282" height="352" alt="VJTKontour2018" src="https://github.com/user-attachments/assets/70c73be1-7be3-4c83-b2af-74ee6011be45" style="display: block; margin: 0 auto;"/></p>
+    <img width="282" height="352" alt="VJTKontour2018" src="https://github.com/user-attachments/assets/70c73be1-7be3-4c83-b2af-74ee6011be45" style="display: block; margin: 0 auto;"/>
+    <img width="1539" height="1295" alt="Screenshot 2026-08-16 152553" src="https://github.com/user-attachments/assets/523eb297-1411-4e09-8aa7-9bd1c87b0d90" />
+
+</p>
     
 
 <!---
