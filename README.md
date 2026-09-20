@@ -15,7 +15,9 @@
 - 📫 **Find me:** Search **Takeya Mitchell** on LinkedIn or **@keyakiss** on Instagram. I'm surprisingly easy to locate for someone who works with networks.
 
 - ⚡ **Fun fact:** I troubleshoot professionally, which means turning things off and back on again is technically an engineering procedure.
-- <div style="text-align: center;"><img width="422" height="502" alt="CA6999A4-FD69-4507-81F7-37533D5210FF" src="https://github.com/user-attachments/assets/70c73be1-7be3-4c83-b2af-74ee6011be45" /></div>
+- <div style="text-align: center;">
+    <img width="422" height="502" alt="CA6999A4-FD69-4507-81F7-37533D5210FF" src="https://github.com/user-attachments/assets/70c73be1-7be3-4c83-b2af-74ee6011be45" />
+  </div>
 
 <!---
 TakeyaC0d3s/TakeyaC0d3s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
